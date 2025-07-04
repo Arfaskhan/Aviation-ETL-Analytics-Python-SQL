@@ -14,4 +14,7 @@ This project demonstrates an end-to-end **ETL pipeline** using data from the **A
 - Jupyter Notebook
 - AviationStack API (Free tier)
 
-- 
+# Folder Structure
+- notebooks/ – Jupyter notebook with code walkthrough
+- scripts/ – Reusable Python ETL scrip
+- screenshots/ - 
